@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 SEP 2017 16:28
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 SEP 2017 17:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Justin_Kuang_Resume.tex
-(./Justin_Kuang_Resume.tex
+**justin_kuang_resume.tex
+(./justin_kuang_resume.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./deedy-resume-openfont.cls
@@ -211,71 +211,21 @@ Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TP@tbargs=\toks17
 \TP@prevdepth=\dimen127
 TextBlockOrigin set to 0pt x 0pt
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/05/19 3.10 The Babel package
-
-
-/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty:393: Package babel Error: Unknown option `UKenglish'. Either you misspelled it
-(babel)                or the language definition file UKenglish.ldf was not found.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \ProcessOptions*
-                      
-Valid options are: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
-
-
-/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty:426: Package babel Error: You haven't specified a language option.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.426 ...ry to proceed from here, type x to quit.}
-                                                  
-You need to specify a language, either as a global option
-or as an optional argument to the \usepackage command;
-You shouldn't try to proceed from here, type x to quit.
-
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/isodate/isodate.sty
-Package: isodate 2010/01/03 v2.30 Print dates with different formats (HH)
- (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/substr/substr.sty
-Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count102
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/isodate/english.idf
-File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH)
-
-Define commands for English date format
-)
-\c@iso@tmpmonth=\count103
-\c@iso@yeartwo=\count104
-\c@iso@slash=\count105
-\c@iso@minus=\count106
-\c@iso@dot=\count107
-\c@iso@@slash=\count108
-\c@iso@@minus=\count109
-\c@iso@@dot=\count110
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2017/05/13 L3 programming layer (loader) 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/05/13 L3 programming layer (code)
-\c_max_int=\count111
-\l_tmpa_int=\count112
-\l_tmpb_int=\count113
-\g_tmpa_int=\count114
-\g_tmpb_int=\count115
-\g__prg_map_int=\count116
-\c_log_iow=\count117
-\l_iow_line_count_int=\count118
-\l__iow_line_target_int=\count119
-\l__iow_one_indent_int=\count120
-\l__iow_indent_int=\count121
+\c_max_int=\count102
+\l_tmpa_int=\count103
+\l_tmpb_int=\count104
+\g_tmpa_int=\count105
+\g_tmpb_int=\count106
+\g__prg_map_int=\count107
+\c_log_iow=\count108
+\l_iow_line_count_int=\count109
+\l__iow_line_target_int=\count110
+\l__iow_one_indent_int=\count111
+\l__iow_indent_int=\count112
 \c_zero_dim=\dimen128
 \c_max_dim=\dimen129
 \l_tmpa_dim=\dimen130
@@ -294,27 +244,27 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count122
-\c__fp_leading_shift_int=\count123
-\c__fp_middle_shift_int=\count124
-\c__fp_trailing_shift_int=\count125
-\c__fp_big_leading_shift_int=\count126
-\c__fp_big_middle_shift_int=\count127
-\c__fp_big_trailing_shift_int=\count128
-\c__fp_Bigg_leading_shift_int=\count129
-\c__fp_Bigg_middle_shift_int=\count130
-\c__fp_Bigg_trailing_shift_int=\count131
-\l__sort_length_int=\count132
-\l__sort_min_int=\count133
-\l__sort_top_int=\count134
-\l__sort_max_int=\count135
-\l__sort_true_max_int=\count136
-\l__sort_block_int=\count137
-\l__sort_begin_int=\count138
-\l__sort_end_int=\count139
-\l__sort_A_int=\count140
-\l__sort_B_int=\count141
-\l__sort_C_int=\count142
+\l_keys_choice_int=\count113
+\c__fp_leading_shift_int=\count114
+\c__fp_middle_shift_int=\count115
+\c__fp_trailing_shift_int=\count116
+\c__fp_big_leading_shift_int=\count117
+\c__fp_big_middle_shift_int=\count118
+\c__fp_big_trailing_shift_int=\count119
+\c__fp_Bigg_leading_shift_int=\count120
+\c__fp_Bigg_middle_shift_int=\count121
+\c__fp_Bigg_trailing_shift_int=\count122
+\l__sort_length_int=\count123
+\l__sort_min_int=\count124
+\l__sort_top_int=\count125
+\l__sort_max_int=\count126
+\l__sort_true_max_int=\count127
+\l__sort_block_int=\count128
+\l__sort_begin_int=\count129
+\l__sort_end_int=\count130
+\l__sort_A_int=\count131
+\l__sort_B_int=\count132
+\l__sort_C_int=\count133
 \c_empty_box=\box30
 \l_tmpa_box=\box31
 \l_tmpb_box=\box32
@@ -360,23 +310,23 @@ File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \l__driver_tmp_box=\box45
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/05/13 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count143
-\g__xparse_grabber_int=\count144
-\l__xparse_m_args_int=\count145
-\l__xparse_mandatory_args_int=\count146
-\l__xparse_v_nesting_int=\count147
+\l__xparse_current_arg_int=\count134
+\g__xparse_grabber_int=\count135
+\l__xparse_m_args_int=\count136
+\l__xparse_mandatory_args_int=\count137
+\l__xparse_v_nesting_int=\count138
 )
 Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count148
-\l__fontspec_language_int=\count149
-\l__fontspec_strnum_int=\count150
-\l__fontspec_tmp_int=\count151
-\l__fontspec_em_int=\count152
-\l__fontspec_emdef_int=\count153
-\l__fontspec_strong_int=\count154
-\l__fontspec_strongdef_int=\count155
+\l__fontspec_script_int=\count139
+\l__fontspec_language_int=\count140
+\l__fontspec_strnum_int=\count141
+\l__fontspec_tmp_int=\count142
+\l__fontspec_em_int=\count143
+\l__fontspec_emdef_int=\count144
+\l__fontspec_strong_int=\count145
+\l__fontspec_strongdef_int=\count146
 \l__fontspec_tmpa_dim=\dimen159
 \l__fontspec_tmpb_dim=\dimen160
 \l__fontspec_tmpc_dim=\dimen161
@@ -636,11 +586,11 @@ File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 )
-\tipaTiiicode=\count156
+\tipaTiiicode=\count147
 \tipasavetokens=\toks20
 \tipachecktokens=\toks21
 )
-\g__fontspec_family_Lato-Lig_int=\count157
+\g__fontspec_family_Lato-Lig_int=\count148
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -660,7 +610,7 @@ LaTeX Info: Redefining \rmfamily on input line 29.
 . 
 . Raleway-ExtraLight scale = 0.9567325044675999.
 .................................................
-\g__fontspec_family_Raleway-ExtraLight_int=\count158
+\g__fontspec_family_Raleway-ExtraLight_int=\count149
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -689,23 +639,8 @@ LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 30.
 
 TextBlockOrigin set to 0mm x 5mm
-) (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux
-
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Package babel Error: Unknown language `english'. Either you have
-(babel)                misspelled its name, it has not been installed,
-(babel)                or you requested it in a previous run. Fix its name,
-(babel)                install it or just rerun the file, respectively.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \select@language{english}
-                              
-You may proceed, but expect wrong results
-
-)
-\openout1 = `Justin_Kuang_Resume.aux'.
+) (/Users/justinkuang/code/resume/.texpadtmp/justin_kuang_resume.aux)
+\openout1 = `justin_kuang_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -773,70 +708,16 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count159
+\c@section@level=\count150
 )
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
- (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.out) (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.out)
+ (/Users/justinkuang/code/resume/.texpadtmp/justin_kuang_resume.out) (/Users/justinkuang/code/resume/.texpadtmp/justin_kuang_resume.out)
 \@outlinefile=\write3
-\openout3 = `Justin_Kuang_Resume.out'.
+\openout3 = `justin_kuang_resume.out'.
 
  ABD: EveryShipout initializing macros
-isodate: babel.sty has been loaded
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
-\bbl@switch ... {afterreset}{}\languageshorthands 
-                                                  {none}\ifcase \bbl@select@...
-l.4 \begin{document}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
-\bbl@switch ...xtras}{}\ifcase \bbl@opt@hyphenmap 
-                                                  \or \def \BabelLower ##1##...
-l.4 \begin{document}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Justin_Kuang_Resume.tex:4: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.4 \begin{document}
-                    
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
-\bbl@switch ...l@patterns {#1}\babel@savevariable 
-                                                  \lefthyphenmin \babel@save...
-l.4 \begin{document}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
-\bbl@switch ...\lefthyphenmin \babel@savevariable 
-                                                  \righthyphenmin \expandaft...
-l.4 \begin{document}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -910,7 +791,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
 LaTeX Font Info:    Font shape `TU/Raleway-ExtraLight(0)/m/n' will be
 (Font)              scaled to size 9.56726pt on input line 22.
-\g__fontspec_family_Lato-Hai_int=\count160
+\g__fontspec_family_Lato-Hai_int=\count151
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -935,7 +816,7 @@ LaTeX Font Info:    Font shape `TU/Raleway-ExtraLight(0)/m/n' will be
 . <->"[fonts/lato/Lato-Lig]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-\g__fontspec_family_Raleway-Medium_int=\count161
+\g__fontspec_family_Raleway-Medium_int=\count152
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -950,6 +831,7 @@ LaTeX Font Info:    Font shape `TU/Raleway-ExtraLight(0)/m/n' will be
 . <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 22.
+
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
 (Font)              size <5> substituted on input line 22.
@@ -979,7 +861,7 @@ LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
-\g__fontspec_family_Lato-Bol_int=\count162
+\g__fontspec_family_Lato-Bol_int=\count153
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -997,7 +879,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 (Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 38.
 
-\g__fontspec_family_Lato-Reg_int=\count163
+\g__fontspec_family_Lato-Reg_int=\count154
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1015,61 +897,7 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
- (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
-\bbl@switch ... {afterreset}{}\languageshorthands 
-                                                  {none}\ifcase \bbl@select@...
-l.19 \select@language{english}
-                              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
-\bbl@switch ...xtras}{}\ifcase \bbl@opt@hyphenmap 
-                                                  \or \def \BabelLower ##1##...
-l.19 \select@language{english}
-                              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.19 \select@language{english}
-                              
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
-\bbl@switch ...l@patterns {#1}\babel@savevariable 
-                                                  \lefthyphenmin \babel@save...
-l.19 \select@language{english}
-                              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
-\bbl@switch ...\lefthyphenmin \babel@savevariable 
-                                                  \righthyphenmin \expandaft...
-l.19 \select@language{english}
-                              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-)
+ (/Users/justinkuang/code/resume/.texpadtmp/justin_kuang_resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 283.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 283.
 
@@ -1083,12 +911,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 283.
  ) 
 Here is how much of TeX's memory you used:
- 21758 strings out of 493005
- 396193 string characters out of 6134596
- 468474 words of memory out of 5000000
- 25570 multiletter control sequences out of 15000+600000
+ 21360 strings out of 493005
+ 390542 string characters out of 6134596
+ 460867 words of memory out of 5000000
+ 25193 multiletter control sequences out of 15000+600000
  6108 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  52i,5n,119p,10360b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.pdf (1 page).
+Output written on /Users/justinkuang/code/resume/.texpadtmp/justin_kuang_resume.pdf (1 page).
