@@ -11,11 +11,11 @@
 % Package Imports
 \usepackage[hmargin=1.25cm, vmargin=0.7cm]{geometry}
 \usepackage[usenames,dvipsnames]{xcolor}
-\usepackage[hidelinks]{hyperref}
+\usepackage{hyperref}
 \usepackage{titlesec}
 \usepackage[absolute]{textpos}
-\usepackage[UKenglish]{babel}
-\usepackage[UKenglish]{isodate}
+%\usepackage[English]{babel}
+%\usepackage[English]{isodate}
 \usepackage{fontspec,xltxtra,xunicode}
 
 % Color definitions
@@ -77,3 +77,4 @@ Last Updated on
 
 % Bullet Lists with fewer gaps command
 \newenvironment{tightemize}{\vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}{\end{itemize}\vspace{-\topsep}}
+

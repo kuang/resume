@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 SEP 2017 16:28
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 SEP 2017 16:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Justin_Kuang_Resume.tex
-(./Justin_Kuang_Resume.tex
+**test.tex
+(./test.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./deedy-resume-openfont.cls
@@ -689,9 +689,9 @@ LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 30.
 
 TextBlockOrigin set to 0mm x 5mm
-) (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux
+) (/Users/justinkuang/code/resume/.texpadtmp/test.aux
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Package babel Error: Unknown language `english'. Either you have
+/Users/justinkuang/code/resume/.texpadtmp/test.aux:19: Package babel Error: Unknown language `english'. Either you have
 (babel)                misspelled its name, it has not been installed,
 (babel)                or you requested it in a previous run. Fix its name,
 (babel)                install it or just rerun the file, respectively.
@@ -705,32 +705,32 @@ l.19 \select@language{english}
 You may proceed, but expect wrong results
 
 )
-\openout1 = `Justin_Kuang_Resume.aux'.
+\openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 50.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 50.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    ... okay on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -767,7 +767,7 @@ LaTeX Font Info:    ... okay on input line 4.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring OFF on input line 4.
+Package hyperref Info: Link coloring OFF on input line 50.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -775,62 +775,62 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count159
 )
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
- (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.out) (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.out)
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+ (/Users/justinkuang/code/resume/.texpadtmp/test.out) (/Users/justinkuang/code/resume/.texpadtmp/test.out)
 \@outlinefile=\write3
-\openout3 = `Justin_Kuang_Resume.out'.
+\openout3 = `test.out'.
 
  ABD: EveryShipout initializing macros
 isodate: babel.sty has been loaded
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./test.tex:50: Undefined control sequence.
 \bbl@switch ... {afterreset}{}\languageshorthands 
                                                   {none}\ifcase \bbl@select@...
-l.4 \begin{document}
-                    
+l.50 \begin{document}
+                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./test.tex:50: Undefined control sequence.
 \bbl@switch ...xtras}{}\ifcase \bbl@opt@hyphenmap 
                                                   \or \def \BabelLower ##1##...
-l.4 \begin{document}
-                    
+l.50 \begin{document}
+                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Justin_Kuang_Resume.tex:4: Missing number, treated as zero.
+./test.tex:50: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.4 \begin{document}
-                    
+l.50 \begin{document}
+                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./test.tex:50: Undefined control sequence.
 \bbl@switch ...l@patterns {#1}\babel@savevariable 
                                                   \lefthyphenmin \babel@save...
-l.4 \begin{document}
-                    
+l.50 \begin{document}
+                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./test.tex:50: Undefined control sequence.
 \bbl@switch ...\lefthyphenmin \babel@savevariable 
                                                   \righthyphenmin \expandaft...
-l.4 \begin{document}
-                    
+l.50 \begin{document}
+                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -844,57 +844,57 @@ and I'll forget about whatever was undefined.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 4.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 4.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 4.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 4.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 4.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 4.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 4.
-LaTeX Font Info:    Redeclaring math accent \check on input line 4.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 4.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 4.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 4.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 4.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 50.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 50.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 50.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 50.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 50.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 50.
+LaTeX Font Info:    Redeclaring math accent \check on input line 50.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 50.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 50.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 50.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 4.
+(Font)              `operators' in the math version `normal' on input line 50.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Lato-Lig(0)/m/n on input line 4.
+(Font)                  OT1/cmr/m/n --> TU/Lato-Lig(0)/m/n on input line 50.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 4.
+(Font)              `operators' in the math version `bold' on input line 50.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Lato-Lig(0)/m/n on input line 4.
+(Font)                  OT1/cmr/bx/n --> TU/Lato-Lig(0)/m/n on input line 50.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Lato-Lig(0)/m/n --> TU/Lato-Lig(0)/m/n on input line 4.
+(Font)                  TU/Lato-Lig(0)/m/n --> TU/Lato-Lig(0)/m/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Lato-Lig(0)/m/it on input line 4.
+(Font)                  OT1/cmr/m/it --> TU/Lato-Lig(0)/m/it on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Lato-Lig(0)/bx/n on input line 4.
+(Font)                  OT1/cmr/bx/n --> TU/Lato-Lig(0)/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Raleway-ExtraLight(0)/m/n on input line 4.
+(Font)                  OT1/cmss/m/n --> TU/Raleway-ExtraLight(0)/m/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 4.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 50.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Lato-Lig(0)/m/n --> TU/Lato-Lig(0)/bx/n on input line 4.
+(Font)                  TU/Lato-Lig(0)/m/n --> TU/Lato-Lig(0)/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Lato-Lig(0)/bx/it on input line 4.
+(Font)                  OT1/cmr/bx/it --> TU/Lato-Lig(0)/bx/it on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Raleway-ExtraLight(0)/bx/n on input line 4.
+(Font)                  OT1/cmss/bx/n --> TU/Raleway-ExtraLight(0)/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 4.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 50.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -909,7 +909,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 . <->"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
 LaTeX Font Info:    Font shape `TU/Raleway-ExtraLight(0)/m/n' will be
-(Font)              scaled to size 9.56726pt on input line 22.
+(Font)              scaled to size 9.56726pt on input line 68.
 \g__fontspec_family_Lato-Hai_int=\count160
 .................................................
 . fontspec info: "defining-font"
@@ -949,32 +949,32 @@ LaTeX Font Info:    Font shape `TU/Raleway-ExtraLight(0)/m/n' will be
 . - 'small caps'  (m/sc) with NFSS spec.:
 . <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 22.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 68.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 22.
+(Font)              size <5> substituted on input line 68.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 22.
+(Font)              size <5> substituted on input line 68.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 22.
+(Font)              <11> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 22.
+(Font)              <7.69997> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 22.
+(Font)              <5.5> on input line 68.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 22.
+(Font)              size <5> substituted on input line 68.
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 36.
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 82.
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 36.
+(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 82.
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -995,7 +995,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 38.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 84.
 
 \g__fontspec_family_Lato-Reg_int=\count163
 .................................................
@@ -1010,13 +1010,29 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 . <->"[fonts/lato/Lato-Reg]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+
+LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/it' undefined
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 134.
+
+
+LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/bx/it' undefined
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 134.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 146.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 146.
+
+LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/bx/n' undefined
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 206.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
- (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+ (/Users/justinkuang/code/resume/.texpadtmp/test.aux
+/Users/justinkuang/code/resume/.texpadtmp/test.aux:19: Undefined control sequence.
 \bbl@switch ... {afterreset}{}\languageshorthands 
                                                   {none}\ifcase \bbl@select@...
 l.19 \select@language{english}
@@ -1027,7 +1043,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+/Users/justinkuang/code/resume/.texpadtmp/test.aux:19: Undefined control sequence.
 \bbl@switch ...xtras}{}\ifcase \bbl@opt@hyphenmap 
                                                   \or \def \BabelLower ##1##...
 l.19 \select@language{english}
@@ -1038,7 +1054,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Missing number, treated as zero.
+/Users/justinkuang/code/resume/.texpadtmp/test.aux:19: Missing number, treated as zero.
 <to be read again> 
                    \relax 
 l.19 \select@language{english}
@@ -1047,7 +1063,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+/Users/justinkuang/code/resume/.texpadtmp/test.aux:19: Undefined control sequence.
 \bbl@switch ...l@patterns {#1}\babel@savevariable 
                                                   \lefthyphenmin \babel@save...
 l.19 \select@language{english}
@@ -1058,7 +1074,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+/Users/justinkuang/code/resume/.texpadtmp/test.aux:19: Undefined control sequence.
 \bbl@switch ...\lefthyphenmin \babel@savevariable 
                                                   \righthyphenmin \expandaft...
 l.19 \select@language{english}
@@ -1070,8 +1086,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 283.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1080,15 +1096,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 283.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 21758 strings out of 493005
- 396193 string characters out of 6134596
- 468474 words of memory out of 5000000
- 25570 multiletter control sequences out of 15000+600000
- 6108 words of font info for 56 fonts, out of 8000000 for 9000
+ 21771 strings out of 493005
+ 396483 string characters out of 6134596
+ 470459 words of memory out of 5000000
+ 25578 multiletter control sequences out of 15000+600000
+ 6140 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 52i,5n,119p,10360b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,12n,119p,10345b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.pdf (1 page).
+Output written on /Users/justinkuang/code/resume/.texpadtmp/test.pdf (1 page).

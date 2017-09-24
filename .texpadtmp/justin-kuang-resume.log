@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 SEP 2017 16:28
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 SEP 2017 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Justin_Kuang_Resume.tex
-(./Justin_Kuang_Resume.tex
+**justin-kuang-resume.tex
+(./justin-kuang-resume.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./deedy-resume-openfont.cls
@@ -689,9 +689,9 @@ LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 30.
 
 TextBlockOrigin set to 0mm x 5mm
-) (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux
+) (/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Package babel Error: Unknown language `english'. Either you have
+/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux:19: Package babel Error: Unknown language `english'. Either you have
 (babel)                misspelled its name, it has not been installed,
 (babel)                or you requested it in a previous run. Fix its name,
 (babel)                install it or just rerun the file, respectively.
@@ -705,7 +705,7 @@ l.19 \select@language{english}
 You may proceed, but expect wrong results
 
 )
-\openout1 = `Justin_Kuang_Resume.aux'.
+\openout1 = `justin-kuang-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -778,13 +778,13 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
- (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.out) (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.out)
+ (/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.out) (/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.out)
 \@outlinefile=\write3
-\openout3 = `Justin_Kuang_Resume.out'.
+\openout3 = `justin-kuang-resume.out'.
 
  ABD: EveryShipout initializing macros
 isodate: babel.sty has been loaded
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./justin-kuang-resume.tex:4: Undefined control sequence.
 \bbl@switch ... {afterreset}{}\languageshorthands 
                                                   {none}\ifcase \bbl@select@...
 l.4 \begin{document}
@@ -795,7 +795,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./justin-kuang-resume.tex:4: Undefined control sequence.
 \bbl@switch ...xtras}{}\ifcase \bbl@opt@hyphenmap 
                                                   \or \def \BabelLower ##1##...
 l.4 \begin{document}
@@ -806,7 +806,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Justin_Kuang_Resume.tex:4: Missing number, treated as zero.
+./justin-kuang-resume.tex:4: Missing number, treated as zero.
 <to be read again> 
                    \relax 
 l.4 \begin{document}
@@ -815,7 +815,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./justin-kuang-resume.tex:4: Undefined control sequence.
 \bbl@switch ...l@patterns {#1}\babel@savevariable 
                                                   \lefthyphenmin \babel@save...
 l.4 \begin{document}
@@ -826,7 +826,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Justin_Kuang_Resume.tex:4: Undefined control sequence.
+./justin-kuang-resume.tex:4: Undefined control sequence.
 \bbl@switch ...\lefthyphenmin \babel@savevariable 
                                                   \righthyphenmin \expandaft...
 l.4 \begin{document}
@@ -1015,8 +1015,8 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
- (/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+ (/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux
+/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux:19: Undefined control sequence.
 \bbl@switch ... {afterreset}{}\languageshorthands 
                                                   {none}\ifcase \bbl@select@...
 l.19 \select@language{english}
@@ -1027,7 +1027,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux:19: Undefined control sequence.
 \bbl@switch ...xtras}{}\ifcase \bbl@opt@hyphenmap 
                                                   \or \def \BabelLower ##1##...
 l.19 \select@language{english}
@@ -1038,7 +1038,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Missing number, treated as zero.
+/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux:19: Missing number, treated as zero.
 <to be read again> 
                    \relax 
 l.19 \select@language{english}
@@ -1047,7 +1047,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux:19: Undefined control sequence.
 \bbl@switch ...l@patterns {#1}\babel@savevariable 
                                                   \lefthyphenmin \babel@save...
 l.19 \select@language{english}
@@ -1058,7 +1058,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.aux:19: Undefined control sequence.
+/Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.aux:19: Undefined control sequence.
 \bbl@switch ...\lefthyphenmin \babel@savevariable 
                                                   \righthyphenmin \expandaft...
 l.19 \select@language{english}
@@ -1091,4 +1091,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  52i,5n,119p,10360b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/justinkuang/code/resume/.texpadtmp/Justin_Kuang_Resume.pdf (1 page).
+Output written on /Users/justinkuang/code/resume/.texpadtmp/justin-kuang-resume.pdf (1 page).
