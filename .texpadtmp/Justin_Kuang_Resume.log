@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  26 MAY 2018 01:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  26 MAY 2018 01:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -873,12 +873,94 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 (Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 43.
 
+./justin_kuang_resume.tex:45: Undefined control sequence.
+l.45 \location
+              {Specialization: Game Theory}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:46: Undefined control sequence.
+l.46 \location
+              {Grad. May 2020 | Ithaca, NY}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:47: Undefined control sequence.
+l.47 \location
+              {GPA: 3.55 }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:54: Undefined control sequence.
+l.54 \location
+              {Grad. 2016 | Baltimore, MD}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:156: Undefined control sequence.
+l.156 \location
+               {Fall 2018 | San Francisco, CA}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:166: Undefined control sequence.
+l.166 \location
+               {Summer 2018 | Menlo Park, CA}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:185: Undefined control sequence.
+l.185 \location
+               {Summer 2017 | Southlake, TX}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:238: Undefined control sequence.
+l.238 \location
+               {August 2016-Present | Ithaca, NY}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./justin_kuang_resume.tex:262: Undefined control sequence.
+l.262 \location
+               {Summer 2017}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 266.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 266.
+(Font)              <14> on input line 266.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 266.
+(Font)              <9.79996> on input line 266.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 266.
+(Font)              <7> on input line 266.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
 [1
 
@@ -894,12 +976,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
  ) 
 Here is how much of TeX's memory you used:
- 21371 strings out of 493005
- 390848 string characters out of 6134596
+ 21354 strings out of 493005
+ 390374 string characters out of 6134596
  455870 words of memory out of 5000000
- 25192 multiletter control sequences out of 15000+600000
- 7072 words of font info for 66 fonts, out of 8000000 for 9000
+ 25187 multiletter control sequences out of 15000+600000
+ 5201 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 52i,5n,119p,10360b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,5n,119p,10360b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/kuang/code/resume/.texpadtmp/justin_kuang_resume.pdf (1 page).
